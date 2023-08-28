@@ -7,7 +7,6 @@ from numpy import pi
 from numpy import sqrt
 from numpy import sin
 from numpy import cos
-from numpy import zeros
 from numpy import r_
 
 
